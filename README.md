@@ -1,6 +1,5 @@
 # 🖼️ _Optimize_ Right Where You Are
 
----
 
 ![Node.js Version](https://img.shields.io/badge/node-%3E%3D%2018.0.0-brighktgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -10,8 +9,6 @@ Built with <u>Sharp</u> for _speed_ and <u>Clack</u> for _pleasant_ terminal vib
 
 
 ## 🔍 <mark>Features</mark>
-
----
 
 -  🏎️ **Turbo Mode** `One-click` lossless optimization ✅
 
@@ -32,23 +29,21 @@ Built with <u>Sharp</u> for _speed_ and <u>Clack</u> for _pleasant_ terminal vib
 
 ## 📦 <mark>Installation</mark>
 
----
 
 Install it __globally__ via `NPM` to use it <u>anywhere</u> in your system 👌
-```
+``` bash
 npm install -g sajjadlabs-webp
 ```
 
 ## 🎨 <mark>Usage</mark>
 
----
 
 Simply <u>run the command</u> and _follow_ the interactive prompts 👇
-```
+``` bash
 sl-webp
 ```
 Or provide a _specific_ directory path 👇
-```
+``` bash
 sl-webp ./src/assets/images
 ```
 The <u>optimized output</u> will be created beside your _input folder_, with the same name plus `_optimized`.
@@ -62,7 +57,6 @@ The <u>optimized output</u> will be created beside your _input folder_, with the
 
 ## 🛠️ <mark>Supported Formats</mark>
 
----
 
 + `JPG / JPEG` ✅
 
@@ -77,7 +71,6 @@ The <u>optimized output</u> will be created beside your _input folder_, with the
 
 ## ⚙️ <mark>Settings Explained</mark>
 
----
 
 | Mode           |  Quality   |  Lossless  | Best For                           |
 |----------------|:----------:|:----------:|------------------------------------|
@@ -88,7 +81,6 @@ The <u>optimized output</u> will be created beside your _input folder_, with the
 
 ## 🙌 <mark>Contributing</mark>
 
----
 
 **Pull requests**, **issues**, and _feature ideas_ are welcome.
 
@@ -96,7 +88,5 @@ The <u>optimized output</u> will be created beside your _input folder_, with the
 
 ## ✍️ <mark>License</mark>
 
-
----
 Released under the **MIT License**. Built with care by `SajjadLabs` ^_^
 
